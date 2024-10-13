@@ -1,2 +1,2 @@
-# Salary-Prediction-
+# Salary-Prediction-Model
 ANN Regression Model
